@@ -10,7 +10,7 @@ Objective:
 - To develop a flutter project that make use of firebase for authentication
 
 Summary:
-The code is about time tracker app
+The code is about time tracker app. I learned how to create a Firebase project, configure Firebase for Android, configuring Firebase for iOS, installing the firebase_core and firebase_auth packages and also to initializing the Firebase App.
 
 
 To use this project with Firebase, some configuration steps are required:
